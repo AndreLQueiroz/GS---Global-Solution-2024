@@ -35,21 +35,14 @@
 <p>
   Como discutido na primeira parte do projeto, a exposição à luminosidade excessiva e à penumbra pode causar danos à qualidade do vinho. Levando isso em consideração, além da indicação se o ambiente está escuro, com meia luz ou iluminado pelos LEDs, essa informação será visível no display (LCD), assim como a quantidade de luminosidade em lux. Por fim, a buzina (Buzzer) que emitia o alarme apenas por 3 segundos agora tocará continuamente.
 </p>
-<h3>Temperatura :thermometer:</h3>
-<p>
-  O vinho, quando exposto ao calor excessivo, tem sua vida encurtada, além de que variações de temperatura superiores a 3°C podem resultar no aparecimento de aromas indesejáveis. Por essas razões, implementamos um sensor que captura a temperatura da adega, o DHT11, além de indicar se o local está com uma temperatura alta, baixa ou na faixa ideal, entre 10°C e 15°C. Essas informações são visíveis no display (LCD) do dispositivo. Quando a temperatura do ambiente estiver fora da situação ideal, o LED amarelo será aceso e a buzina (Buzzer) tocará continuamente.
-</p>
 <h3>Umidade :droplet:</h3>
-<p>
-  Além da temperatura, a ausência de umidade pode resultar na secagem do vedante, ocasionando uma vedação inadequada da garrafa e aumentando o risco de oxidação do líquido. Enquanto isso, um excesso de umidade pode causar danos aos rótulos e favorecer o crescimento de fungos. Portanto, o nível ideal de umidade deve ser em torno de 70%, com uma margem de variação entre 50% e 70%.
-</p>
 <p>
   Diante disso, utilizamos o mesmo sensor, o DHT11, que captura a temperatura da adega, já que ele também captura a umidade do ambiente. Além disso, indicará se a umidade está alta, baixa ou na faixa ideal, entre 50% e 70%. Essas informações também são mostradas no display (LCD). Quando a umidade estiver fora da situação ideal, o LED vermelho será aceso e a buzina (Buzzer) tocará continuamente.
 </p>
 
 ## Acesso ao projeto :file_folder:
 
-Você pode acessar o [código do projeto](CP2.cpp) ou a [simulação feita no Wooki](https://wokwi.com/projects/395351900975891457)
+Você pode acessar a [simulação feita no Wooki](https://wokwi.com/projects/395351900975891457)
 
 ## Ferramenta utilizada :hammer_and_wrench:
 
