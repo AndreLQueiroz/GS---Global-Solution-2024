@@ -42,7 +42,7 @@
 
 ## Acesso ao projeto :file_folder:
 
-Você pode acessar a [simulação feita no Wooki](https://wokwi.com/projects/395351900975891457)
+Você pode acessar a [simulação feita no Wooki](https://wokwi.com/projects/399334074505406465)
 
 ## Ferramenta utilizada :hammer_and_wrench:
 
