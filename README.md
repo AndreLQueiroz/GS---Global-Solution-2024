@@ -33,7 +33,7 @@
 </p>
 <h3>Luminosidade :bulb:</h3>
 <p>
-  Como discutido na primeira parte do projeto, a exposição à luminosidade excessiva e à penumbra pode causar danos à qualidade do vinho. Levando isso em consideração, além da indicação se o ambiente está escuro, com meia luz ou iluminado pelos LEDs, essa informação será visível no display (LCD), assim como a quantidade de luminosidade em lux. Por fim, a buzina (Buzzer) que emitia o alarme apenas por 3 segundos agora tocará continuamente.
+  Levando isso em consideração, além da indicação se o ambiente está escuro, com meia luz ou iluminado pelos LEDs, essa informação será visível no display (LCD), assim como a quantidade de luminosidade em lux. Por fim, a buzina (Buzzer) que emitia o alarme apenas por 3 segundos agora tocará continuamente.
 </p>
 <h3>Umidade :droplet:</h3>
 <p>
