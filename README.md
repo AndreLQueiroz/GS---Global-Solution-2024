@@ -1,7 +1,7 @@
 
 # GS---Global-Solution-2024-
 
-![banner](https://cdn.discordapp.com/attachments/918978946652069899/1245019147142828052/banner.jpg?ex=665b2e70&is=6659dcf0&hm=8d22d62118dba90dbeaf2a29e49e43d9cbed46fe2e3737062cf6d32587ad8d67&)
+![banner](https://cdn.discordapp.com/attachments/918978946652069899/1245019147142828052/banner.jpg?ex=66631770&is=6661c5f0&hm=73d7f45478fde42696762d9b5c96e9712b5f9cc92b69ffabc9ec864a1104ecbb&)
 
 
 ## Índice :page_with_curl:
